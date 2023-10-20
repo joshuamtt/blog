@@ -1,0 +1,4 @@
+[submodule "joshuamtt/public"]
+	path = joshuamtt/public
+	url = https://github.com/joshuamtt/joshuamtt.github.io.git
+	branch = main
